@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PersonnelMangement_Hire employee</name>
+   <tag></tag>
+   <elementGuidId>8d6d39b5-901f-4f77-bd9b-78530aa7b80c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='HcmWorkforceWorkspace_2_HireNewEmployee_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#HcmWorkforceWorkspace_2_HireNewEmployee_label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>43d30cbc-4c7c-48f8-a21e-802bb4fedc84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+            id: $data.Id + '_label', 
+            ariaLabelFor: $dyn.ui.ariaLabelFor($data.Id, $data),
+            css: { 'button-label' : !$dyn.value($data.IsLabelBubble),
+                   'button-attach-label' : $dyn.value($data.IsLabelBubble) },
+            attr: {
+                'aria-describedby': $dyn.ui.getDescribedByData($data),
+            }</value>
+      <webElementGuid>5d2b8ee0-862e-4444-a0ef-879b1686b86a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>HcmWorkforceWorkspace_2_HireNewEmployee_label</value>
+      <webElementGuid>e3a0dd63-01a0-4c61-abd7-cacfb8d94cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>HcmWorkforceWorkspace_2_HireNewEmployee</value>
+      <webElementGuid>106db28a-e88d-48cf-bc84-e9e866a2990f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-label</value>
+      <webElementGuid>f0788d8a-d693-4bc4-9fa5-54621a9e1772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>HcmWorkforceWorkspace_2_HireNewEmployee_helptext</value>
+      <webElementGuid>6ea9d479-9cbb-45b8-9fd8-7d0f745b3002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hire employee</value>
+      <webElementGuid>17789b3c-1b05-405f-89a0-34fe0d69ab41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HcmWorkforceWorkspace_2_HireNewEmployee_label&quot;)</value>
+      <webElementGuid>d6f46e05-7f9a-46de-8273-fb9ba07e4484</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='HcmWorkforceWorkspace_2_HireNewEmployee_label']</value>
+      <webElementGuid>b9413393-1405-45ba-a350-487c66d5fa69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='HcmWorkforceWorkspace_2_HireNewEmployee']/div/span[3]</value>
+      <webElementGuid>1cffaefb-0fac-48df-944e-6916e208ee96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related information'])[1]/following::span[3]</value>
+      <webElementGuid>ff28ae44-9925-4009-aa42-7bc92c39e42a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Related information pane (Ctrl+F2)'])[1]/following::span[4]</value>
+      <webElementGuid>64c4d774-4d38-4b19-a0fd-d22f4b5a0607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hire contractor'])[1]/preceding::span[3]</value>
+      <webElementGuid>ea7e7e83-31e9-499c-8358-c59459ab483a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Options'])[1]/preceding::span[4]</value>
+      <webElementGuid>3102b2a1-1797-461d-8927-dc35aeaf9653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hire employee']/parent::*</value>
+      <webElementGuid>49b104d4-0cac-460a-be68-7a19e5074651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button/div/span[3]</value>
+      <webElementGuid>c084adc5-956b-426e-b095-f2f4ff44d9b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'HcmWorkforceWorkspace_2_HireNewEmployee_label' and (text() = 'Hire employee' or . = 'Hire employee')]</value>
+      <webElementGuid>3a65a49c-7de1-4d7d-8a24-1383762905fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

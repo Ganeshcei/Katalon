@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search name DropdownValue</name>
+   <tag></tag>
+   <elementGuidId>69310bac-5d02-4cc1-8584-7b5c090d332a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='HcmWorkerV2_4_QuickFilter_listbox_item1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#HcmWorkerV2_4_QuickFilter_listbox_item1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4058754d-6561-446d-8cb0-ff61434e07ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quickFilter-listItem flyout-menuItem</value>
+      <webElementGuid>eb335438-94b9-4e7c-9e71-f2cc2c0b9ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>0b9557ec-04d6-45be-b129-507a1cce5325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+                    id: $parent().Id + '_listbox_item' + $index,
+                    attr: {
+                        'aria-posinset': $index + 1,
+                        'aria-setsize': $length,
+                        'aria-selected': $index == $dyn.value($quickFilter.selectedIndex)
+                    },
+                    click: function menuItemClicked() {
+                        $dyn.setValue($quickFilter, 'Field', $data);
+                        $quickFilter.selectedIndex($index);
+                        $quickFilter.callApplyFilter();
+                    }</value>
+      <webElementGuid>549a1485-3831-4e66-af41-4b8402af083f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-stop-binding</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>db984285-fba9-47d9-8d7c-7f71f64fba0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>HcmWorkerV2_4_QuickFilter_listbox_item1</value>
+      <webElementGuid>a05812cd-7b7d-4fb1-b0a1-a6ca7d193ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-posinset</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>12301851-8d7b-490a-ac52-3fc4c06460ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-setsize</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>130982da-e81f-42ab-944b-4e5c562b5b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7df848c7-758d-4d4a-b192-05b9d5756714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>148f60c9-0621-46f1-837b-e928aea19a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Search name &quot;Test Employee2&quot;
+                </value>
+      <webElementGuid>43e4b4d5-d524-4c37-9a21-2d5a96e63fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HcmWorkerV2_4_QuickFilter_listbox_item1&quot;)</value>
+      <webElementGuid>3e036ea9-1d30-4199-9114-047f3f59af09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='HcmWorkerV2_4_QuickFilter_listbox_item1']</value>
+      <webElementGuid>ea1ccc43-1899-40fe-8677-99be64cf3739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='HcmWorkerV2_4_QuickFilter_listbox']/li[2]</value>
+      <webElementGuid>87aca1ab-bfa1-4b0b-9d73-fb70e3f1d78b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Employee2'])[1]/following::li[1]</value>
+      <webElementGuid>3a5fdf4c-4493-4c7f-a794-e51f109cae0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[3]/following::li[1]</value>
+      <webElementGuid>71f24ab5-59e9-4794-9230-d670f5b8dd2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[23]/ul/li[2]</value>
+      <webElementGuid>be9880b3-af40-49b0-b7ee-b075676be871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'HcmWorkerV2_4_QuickFilter_listbox_item1' and (text() = '
+                    Search name &quot;Test Employee2&quot;
+                ' or . = '
+                    Search name &quot;Test Employee2&quot;
+                ')]</value>
+      <webElementGuid>045ca3d9-0589-46da-8d29-db1d0d4d484c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HiredEmployeeVerification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7b4f7b3-19b3-4666-a20a-5027c64b9c6e</testCaseGuid>
+   <variable>
+      <defaultValue>'Defaultname'</defaultValue>
+      <description></description>
+      <id>af684dee-23b0-4eb5-8482-47db891f43fb</id>
+      <masked>false</masked>
+      <name>HiredEmployeeName</name>
+   </variable>
+   <variable>
+      <defaultValue>'DefaultFirstName'</defaultValue>
+      <description></description>
+      <id>01cc2c26-de77-4696-b3e3-2964979e6ec2</id>
+      <masked>false</masked>
+      <name>HiredEmployeeFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'DefaultLastName'</defaultValue>
+      <description></description>
+      <id>75c17f3c-54e5-4d08-bd6d-8db5e2662ef9</id>
+      <masked>false</masked>
+      <name>HiredEmployeeLastName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchFilter IconButton</name>
+   <tag></tag>
+   <elementGuidId>39413758-1ce1-4318-b5c2-4c22b942077c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[100]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#HcmWorkerV2_4_QuickFilter > button.button.quickFilter-applyButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a6509680-70c0-4175-83a0-5f969eb0434a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>f995838a-75b5-4751-91ce-c440029bfa0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>89f17506-9460-404f-b167-de0730301212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>26be1bb3-dbd7-4e1e-b80b-dab069fcf9a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button quickFilter-applyButton</value>
+      <webElementGuid>38f381d7-7a99-4c4c-9efb-efbff73995d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+        enabled: $data.Enabled,
+        click: $data.callApplyFilter,
+        title: $label('QuickFilter_ApplyButtonTooltip'),
+        superTooltip: $dyn.ui.superTooltip($data),</value>
+      <webElementGuid>ed969e11-ad86-4cef-a89e-5fb04ddd00cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b7ddb4a6-44e9-4a5f-b9ce-9734b080c71a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Apply filter</value>
+      <webElementGuid>e69c150c-25ae-4295-bced-784d522e8ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HcmWorkerV2_4_QuickFilter&quot;)/button[@class=&quot;button quickFilter-applyButton&quot;]</value>
+      <webElementGuid>d417d565-727b-4bbb-94ab-c132f90e694b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[100]</value>
+      <webElementGuid>10699dc1-04cd-4182-b625-d54f77114f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='HcmWorkerV2_4_QuickFilter']/button</value>
+      <webElementGuid>94528927-98ae-42f1-996f-fbe9d98e7c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/button</value>
+      <webElementGuid>2fabb638-0c0d-4d75-bfbb-6d1d704933e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Apply filter']</value>
+      <webElementGuid>72d1c108-f396-4d89-8320-9ec6e33ddc8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

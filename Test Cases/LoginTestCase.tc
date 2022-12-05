@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>980fb6df-02e4-4a57-9309-abec27d722ef</testCaseGuid>
+   <variable>
+      <defaultValue>'https://trial-y3rzqz.trial.operations.dynamics.com/?mode=trial&amp;cmp=DAT&amp;mi=DefaultDashboard'</defaultValue>
+      <description></description>
+      <id>2a480600-7011-4caa-b3f0-fa3578fd936e</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'hegil42779@jernang.com'</defaultValue>
+      <description></description>
+      <id>e02e76a6-d8db-48ca-a278-244f86dc5154</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Secret@003'</defaultValue>
+      <description></description>
+      <id>3eaf4fe1-36ac-4341-9232-2b583cc9b068</id>
+      <masked>true</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

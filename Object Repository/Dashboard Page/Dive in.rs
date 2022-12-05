@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dive in</name>
+   <tag></tag>
+   <elementGuidId>036f654c-29f6-442c-8327-b77f9c909e15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='14_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#14_label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb606fa5-8979-471b-8b44-aa8f7c381d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+            id: $data.Id + '_label', 
+            ariaLabelFor: $dyn.ui.ariaLabelFor($data.Id, $data),
+            css: { 'button-label' : !$dyn.value($data.IsLabelBubble),
+                   'button-attach-label' : $dyn.value($data.IsLabelBubble) },
+            attr: {
+                'aria-describedby': $dyn.ui.getDescribedByData($data),
+            }</value>
+      <webElementGuid>76d0e207-45b2-411f-a418-69ff7f3d188e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>14_label</value>
+      <webElementGuid>0c37d8bf-297a-4f2b-81cd-007be768559f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>45e7c394-4693-4c53-a426-16abaf1be62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-label</value>
+      <webElementGuid>6c1d2dc4-e72f-4171-8b9b-d63f8f609bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>14_helptext</value>
+      <webElementGuid>5acc787f-4f61-411a-95c6-87741f1b1fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dive in!</value>
+      <webElementGuid>d904cb7a-172e-4277-b0c0-1ded983106dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;14_label&quot;)</value>
+      <webElementGuid>61d52983-1f6e-4002-a047-0a85c1624ebe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='14_label']</value>
+      <webElementGuid>ae27b3d5-bead-411f-a865-62b7c0ea3280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='14']/div/span[3]</value>
+      <webElementGuid>72bc2b2b-8670-488e-aaa0-c3372f676e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Dynamics 365 Finance and Operations. Try it out!'])[1]/following::span[10]</value>
+      <webElementGuid>a452739c-32b7-4c5b-b40a-4d539dbc9d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', '14_label', '&quot;', ')')])[1]/following::span[14]</value>
+      <webElementGuid>4ad46ee6-f16d-457f-bc56-a9b3eeaeb534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[1]/preceding::span[3]</value>
+      <webElementGuid>910778ab-fd08-43b4-832b-7c622622a0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dive in!']/parent::*</value>
+      <webElementGuid>5f7add84-aa59-437e-bec0-16229522ed85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/button/div/span[3]</value>
+      <webElementGuid>e715a47a-cde4-4528-a12a-302ce34451f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '14_label' and (text() = 'Dive in!' or . = 'Dive in!')]</value>
+      <webElementGuid>4a7b4d11-01d5-442f-8077-dfad64265656</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
