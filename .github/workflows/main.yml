@@ -13,4 +13,4 @@ jobs:
       with:
           version: '7.5.5'
           projectPath: '${{ github.workspace }}'
-          args: '-noSplash -retry=0 -browserType=Firefox -testSuitePath="Test Suites/DemoSuite" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
+          args: '-noSplash -retry=0 -testSuitePath="Test Suites/DemoSuite" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
